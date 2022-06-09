@@ -4,7 +4,6 @@ def is_valid_walk(walk):
 
     # # my
     # if len(walk) != 10:
-    #     print("False")
     #     return False
     # vert_position = 0
     # hor_position = 0
@@ -18,10 +17,8 @@ def is_valid_walk(walk):
     #     if char == 'w':
     #         hor_position = hor_position - 1
     # if vert_position == 0 and hor_position == 0:
-    #     print("True")
     #     return True
     # else:
-    #     print("False")
     #     return False
 
 
